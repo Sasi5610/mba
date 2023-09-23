@@ -1,4 +1,4 @@
-// const SECRET_KEY = "sasi5555";
+
 const SECRET_KEY = process.env.SECRET_KEY;
 
 module.exports = SECRET_KEY;
